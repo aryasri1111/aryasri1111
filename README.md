@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aryasri1111
 - 👀 I’m interested in learning new skills.
-- 🌱 I’m currently learning Java core.
-- 💞️ I’m looking to collaborate on any kind of projects. 
+- 🌱 I’m currently learning Python with Data Science.
+- 💞️ I’m looking to collaborate on any kind of project. 
 - 📫 How to reach me @aryasri1111
 
 <!---
